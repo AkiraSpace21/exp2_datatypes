@@ -37,7 +37,7 @@ To:
 
 ---
 
-## 📚 Conceptual Background
+## 📚 Theory
 
 ### 🔹 Data Types in C++
 
