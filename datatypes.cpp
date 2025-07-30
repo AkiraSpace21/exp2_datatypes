@@ -4,12 +4,12 @@ using namespace std;
 
 int main() {
     int a;
-    cout << "Enter any integer: ";
+    cout << "Enter a integer: ";
     cin >> a;
     cout << "Integer = " << a << " and size is " << sizeof(a) << " bytes" << endl;
 
     float b;
-    cout <<"Enter any number with decimal: ";
+    cout <<"Enter a number with decimal: ";
     cin >> b;
     cout <<"Float = " << b << " and size is " << sizeof(b) << " bytes" << endl;
     double c;
@@ -17,7 +17,7 @@ int main() {
     cin >> c;
     cout <<"Double = " << c << " and size is " << sizeof(c) << " bytes" << endl;
     string d;
-    cout <<"Enter any string (single word): ";
+    cout <<"Enter a string : ";
     cin >> d;
     cout <<"String = " << d << " and size of object is " << sizeof(d) << " bytes" << endl;
     char e;
